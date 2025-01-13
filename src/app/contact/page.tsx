@@ -34,7 +34,7 @@ const Contact = () => {
       <header className="flex flex-col items-center justify-center py-12">
         <h1 className="text-5xl md:text-6xl font-extrabold">Contact Me</h1>
         <p className="mt-4 text-lg md:text-xl max-w-2xl text-center">
-          Have a question or want to work together? Fill out the form below, and I'll get back to you as soon as possible.
+          Have a question or want to work together? Fill out the form below, and I&apos;ll get back to you as soon as possible.
         </p>
       </header>
 
@@ -114,6 +114,7 @@ const Contact = () => {
 };
 
 export default Contact;
+
 
 
 
