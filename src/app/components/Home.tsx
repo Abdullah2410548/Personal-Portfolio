@@ -20,7 +20,7 @@ const Home = () => {
           <ul className="flex justify-center md:justify-start gap-6 mt-6">
             <li>
               <Link href="https://linkedin.com" target="_blank" aria-label="LinkedIn">
-                <FaLinkedin className="text-3xl hover:text-blue-500 transition-colors" />
+                <FaLinkedin className="text-3xl hover:text-[#0054a3] transition-colors" />
               </Link>
             </li>
             <li>
@@ -35,7 +35,7 @@ const Home = () => {
             </li>
             <li>
               <Link href="mailto:example@example.com" aria-label="Email">
-                <IoMdMail className="text-3xl hover:text-[#0d8dbf] transition-colors" />
+                <IoMdMail className="text-3xl hover:text-[#ed0547] transition-colors" />
               </Link>
             </li>
           </ul>
