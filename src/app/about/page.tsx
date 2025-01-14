@@ -49,9 +49,7 @@ const About = () => {
             "Next.js",
             "Tailwind CSS",
             "Typescript",
-            "Git & GitHub",
-            "Figma",
-            "UI / UX",
+           
           ].map((skill, index) => (
             <div
               key={index}
